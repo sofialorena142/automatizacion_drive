@@ -1,0 +1,9 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos de configuración local
+credentials.json
+
+# Archivos de PyCharm
+.idea/
