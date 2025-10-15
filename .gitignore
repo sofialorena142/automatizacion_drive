@@ -4,6 +4,8 @@ __pycache__/
 
 # Archivos de configuración local
 credentials.json
+oauth_credentials.json
+token.json
 
 # Archivos de PyCharm
 .idea/
